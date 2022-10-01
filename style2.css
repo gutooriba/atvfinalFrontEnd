@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#box2{
+    position: relative;
+    
+    width: 15.8vw;
+    height: 100vh;
+    
+    background-color:peru;
+}
+.box1{
+    position: absolute;
+    width: 84%;
+    height: 100vh;
+    right: 0;
+    background-color: white;
+}
+.fotoperfil img {
+    position: absolute;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    margin-top: 130px;
+    left: 30px;
+  }
+  #menu{
+    position: absolute;
+    top: 319px;
+    left: 30px;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  .p4{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 217px;
+    float: left;
+    width: 84%;
+    height: 50vh;
+    
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #p5{
+    background-color: white;
+    position: absolute;
+    width: 84%;
+    height: 40vh;
+    left: 247px;
+    float: left;
+    top: 240px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
